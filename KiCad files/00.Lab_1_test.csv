@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D105,D106,D207,D102,D205,D104,D204,D203,D202,D206,D103,D107";"LED_1206_Metric";12;"LED";;;
+2;"R202,R203,R101,R206,R103,R201,R204,R104,R102,R205,R106,R105";"R_0402";12;"1.2k";;;
+3;"C202,C205,C104,C102,C204,C105,C6";"C_100nF";7;"100nF";;;
+4;"TP204,TP108,TP202,TP102,TP105,TP203,TP103,TP205,TP104,TP206,TP201,TP1,TP109,TP107,TP106,TP101";"TestPoint_Pad";16;"TestPoint_Small";;;
+5;"L101,L201";"L_0805_Metric";2;"L";;;
+6;"C201,C101";"C_100pF";2;"100pF";;;
+7;"U102,U202";"SOIC-54, var 2";2;"MM908E625";;;
+8;"RV201,RV101";"VAR";2;"VAR";;;
+9;"C203,C103";"CP_330uF_D";2;"330uF";;;
+10;"D101,D201";"D_403";2;"D";;;
+11;"J202,J102";"PinHeader_1x12_P2.54mm";2;"Conn_01x12";;;
+12;"U101";"SOIC-14 U3";1;"74HC125";;;
+13;"J3";"PinSocket_1x20_nou";1;"Conn_01x10";;;
+14;"J201,J101";"PinSocket_1x06_P2.54mm_Vertical";2;"Conn_01x06";;;

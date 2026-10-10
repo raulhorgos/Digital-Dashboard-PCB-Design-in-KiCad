@@ -1,0 +1,14 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-F_Cu.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-B_Cu.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-F_Paste.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-B_Paste.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-F_Silkscreen.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-B_Silkscreen.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-F_Mask.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-B_Mask.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-Edge_Cuts.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-Margin.gbr'.
+Plotted to 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-User_8.gbr'.
+Created Gerber job file 'D:\UTCN\Teme\AN III\TME\00.Lab_1_test\00.Lab_1_test-job.gbrjob'.
+Info: Done.
